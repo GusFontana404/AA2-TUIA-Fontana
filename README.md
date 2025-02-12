@@ -15,7 +15,7 @@ Este repositorio contiene el desarrollo de dos problemáticas que abordan difere
 
 Los principales objetivos de este trabajo son:
 
-1. Utilizando datos que contiene clips de audio correspondientes a oraciones habladas en distintos idiomas, construir un modelo de clasificación utilizando redes neuronales que pueda inferir el idioma correspondiente.
+1. Utilizando datos que contiene clips de audio correspondientes a oraciones habladas en distintos idiomas, se construye un modelo de clasificación utilizando redes neuronales para inferir el idioma correspondiente.
 
 2. Se presenta un conjunto de datos correspondientes a escritos de Shakespear con el fin de crear un modelo capaz de generar texto con dialecto de época y escritura en verso y prosa.
    - Se experimenta con los siguientes tipos de modelos:
